@@ -1,0 +1,28 @@
+name: Share a use case
+description: Tell us about something useful you got Muse to do.
+title: "Use case: "
+labels: ["use-case"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Real use cases are the heart of this list. Great ones may be featured in the README. Please leave out any personal or sensitive information.
+  - type: textarea
+    id: task
+    attributes:
+      label: What did you ask Muse to do?
+      description: Include your prompt if you can.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: What happened?
+      description: What worked, what didn't, and any connectors or approvals involved.
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link (optional)
+      description: A post, thread, or write-up about it.

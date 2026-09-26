@@ -1,0 +1,28 @@
+name: Report a problem
+description: Report a broken link, outdated information, or an entry that no longer belongs.
+title: "Problem: "
+labels: ["maintenance"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry
+      description: Name or URL of the affected entry.
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Problem
+      options:
+        - Broken link
+        - Outdated information
+        - Unmaintained or archived
+        - Does not meet the quality bar
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details

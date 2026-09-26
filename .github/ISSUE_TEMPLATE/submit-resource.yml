@@ -1,0 +1,68 @@
+name: Submit a resource
+description: Suggest a guide, tool, article, video, or other resource about Muse.
+title: "Add: "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a resource! This list is curated, so please check the [contribution guidelines](https://github.com/cszach/awesome-muse/blob/main/contributing.md) first. Submit one resource per issue.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Muse Mac Connector
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Getting Started
+        - Use Cases and Inspiration
+        - Tips and Best Practices
+        - Connectors and Integrations
+        - Community Tools
+        - Where to Use Muse
+        - Privacy, Safety, and Security
+        - Reviews and Hands-On
+        - News and Analysis
+        - Videos and Podcasts
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: One-line description
+      description: Objective, starts with a capital letter, ends with a period. No hype.
+      placeholder: macOS app that lets Muse perform actions on your Mac that you approve.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it awesome?
+      description: What does it offer that the list doesn't already have?
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: It is about Muse, Meta's personal AI agent (not the models, Muse Code, or another "Muse").
+          required: true
+        - label: I searched the list and open issues, and it is not a duplicate.
+          required: true
+        - label: It has no referral or affiliate links.
+          required: true
+        - label: I made this resource or am affiliated with it.

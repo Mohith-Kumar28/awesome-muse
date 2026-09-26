@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contribution guidelines
+    url: https://github.com/cszach/awesome-muse/blob/main/contributing.md
+    about: Read what makes the cut before submitting.

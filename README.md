@@ -47,7 +47,7 @@ It is available in the United States to people 18 and older with a Meta account,
 
 ## Community
 
-- [Muse Discord](https://discord.gg/sxjhCPdEG6) - Independent community server for Muse users: get help, share use cases, and discuss what's new.
+- [Muse Discord](https://discord.com/invite/sxjhCPdEG6) - Independent community server for Muse users: get help, share use cases, and discuss what's new.
 
 ## Use Cases and Inspiration
 

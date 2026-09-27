@@ -55,7 +55,6 @@ It is available in the United States to people 18 and older with a Meta account,
 > [!TIP]
 > **Give context:** say who the task is for, what it is for, and what a good result looks like. **Name the format:** a table, a list, a PDF, or a short text. **Set boundaries:** for example, "Only search my email, not my messages." **Start small:** begin with low-risk tasks and read-only access, then grant more as you build trust.
 
-
 - [How Muse Handles Your Privacy, Safety, and Security](https://www.meta.com/help/artificial-intelligence/1047255454427887/) 🎖️ - Help Center article on data access, approvals, and controls.
 - [Meta Muse Features and Privacy Guide](https://www.digitalapplied.com/blog/meta-muse-personal-ai-agent-guide) - Overview of capabilities alongside the privacy settings worth changing.
 

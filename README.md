@@ -97,6 +97,8 @@ Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 - [Meta Muse Privacy Review](https://www.neoteo.com/en/a-meta-muse-hands-on-review-found-task-help-and-data-prompts) - Multi-day test focused on how often Muse asks for sensitive data.
 - [Should You Let Muse Manage Your Money?](https://finance.yahoo.com/personal-finance/banking/article/metas-muse-says-it-can-manage-your-money-should-you-let-it-141040045.html) - Yahoo Finance on the risks of connecting financial accounts.
 
+- [I Asked Meta's Muse for Its Filesystem and It Sent Me 6.8 GB](https://www.reddit.com/r/BetterOffline/comments/1wpdpnr/i_asked_metas_muse_for_its_filesystem_and_it_sent/) - Hands-on experiment showing Muse handing over its filesystem, with active community discussion.
+
 ## Reviews and Hands-On
 
 - [Meta Says Its Muse AI Agent Can Do Things for You. I Put It to the Test](https://www.cnn.com/2026/09/23/tech/meta-muse-ai-agent) - CNN's hands-on with real errands.

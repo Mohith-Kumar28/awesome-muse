@@ -1,4 +1,4 @@
-# Awesome Muse [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Muse [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/sxjhCPdEG6)
 
 > A curated list of the best guides, use cases, tools, and news for Muse, Meta's personal AI agent.
 
@@ -17,6 +17,7 @@ Muse takes goals in plain language and gets them done across your apps and the w
 
 - [About Muse](#about-muse)
 - [Getting Started](#getting-started)
+- [Community](#community)
 - [Use Cases and Inspiration](#use-cases-and-inspiration)
 - [Tips and Best Practices](#tips-and-best-practices)
 - [Connectors and Integrations](#connectors-and-integrations)
@@ -43,6 +44,10 @@ It is available in the United States to people 18 and older with a Meta account,
 - [Muse for iOS](https://apps.apple.com/us/app/muse-from-meta/id6760173601) 🎖️ - App Store listing.
 - [Introducing Muse](https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/) 🎖️ - Launch announcement from Meta's newsroom.
 - [How to Get Started with Muse](https://www.engadget.com/2256577/how-to-get-started-with-meta-s-new-ai-agent-muse/) - Engadget's walkthrough of setup and first tasks.
+
+## Community
+
+- [Muse Discord](https://discord.gg/sxjhCPdEG6) - Independent community server for Muse users: get help, share use cases, and discuss what's new.
 
 ## Use Cases and Inspiration
 

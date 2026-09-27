@@ -14,6 +14,7 @@ well:
 - Connectors, skills, and open-source tools built for Muse.
 - Independent reviews, security research, and original reporting.
 - Talks, interviews, and podcasts.
+- News articles and social posts only when they are the original source of substantive content (an experiment, original analysis) that is not published elsewhere.
 
 Out of scope: the Muse Spark and Muse Glimmer models, Muse Code, the Meta Model
 API, and anything else named "Muse".
@@ -25,6 +26,7 @@ A resource is added only if it:
 - Is about Muse the assistant, and works or reads as described.
 - Adds something the list does not already have.
 - Is original: not a rewrite of Meta's announcement or another article.
+- Vendor-made resources are judged by the same bar: a product pitch inside does not disqualify it if the resource is genuinely useful on its own and the pitch is disclosed and secondary.
 - For projects: has a README and a license, and a commit in the last 90 days.
 
 We do not accept:

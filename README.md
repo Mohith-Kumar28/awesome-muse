@@ -102,6 +102,8 @@ Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 - [Meta Says Its Muse AI Agent Can Do Things for You. I Put It to the Test](https://www.cnn.com/2026/09/23/tech/meta-muse-ai-agent) - CNN's hands-on with real errands.
 - [I Put Meta's Muse AI Agent to Work](https://www.barrons.com/articles/meta-muse-ai-review-29077e2f) - Barron's test by a non-power user: canceling subscriptions and finding a doctor, including what it got wrong.
 
+- [Meta Muse in 13 Real-World Tests](https://dev.to/hao_kang_82922526dfe5d934/meta-muse-in-13-real-world-tests-what-to-delegate-what-to-verify-3hlh) - Synthesis of 13 hands-on tests with a day-one safety checklist and a copy-paste task template.
+
 ## News and Analysis
 
 - [Everything New Coming to Muse](https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/) - TechCrunch's roundup of the Connect 2026 announcements.
@@ -120,6 +122,8 @@ Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 - [Meta Muse Review: Can It Actually Run Your Life?](https://www.youtube.com/watch?v=wJC_SQJ7msc) - Seven-day test of ten real errands, scored: five done right, two done wrong, two stalled.
 - [Muse Just Stole the AI Spotlight](https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/) - Equity episode on Muse outpacing ChatGPT's early numbers and what it means for startups building on agents.
 - [Muse Is Why Meta Has No Business Building the Agentic Web](https://www.youtube.com/watch?v=ybCF89NP4KE) - Critical walkthrough sorting Zuckerberg's Muse privacy and security claims by what exists today versus what is promised.
+
+- [Meta Muse Tips & Tricks | 6 Features You Should Be Using](https://www.youtube.com/watch?v=jbGYcOWvCZI) - Hands-on walkthrough of price tracking, Instagram integration, the credential store, and Muse Wallet.
 
 ## Contributing
 

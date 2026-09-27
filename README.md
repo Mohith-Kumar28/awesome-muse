@@ -64,7 +64,6 @@ Connectors give Muse access to your services, such as email, calendar, shopping,
 
 - [Meta AI Connectors](https://dev.meta.ai/products/connectors) 🎖️ - Developer platform for building connectors that Muse can use.
 - [Meta Muse Connectors List](https://postfa.st/blog/meta-muse-connectors-list) - Regularly updated list of available connectors.
-- [Muse Custom Integrations](https://parallel.ai/articles/meta-muse-custom-integrations) - How Muse connects to services that have an API or CLI.
 - [What the Muse Connector Application Asks For](https://stacktr.ee/blog/muse-connector-platform) - Walkthrough of the connector platform's application form.
 
 ## Community Tools
@@ -95,7 +94,6 @@ Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 
 ## Reviews and Hands-On
 
-- [Meta Muse Explained](https://www.mindstudio.ai/blog/meta-muse-ai-agent) - Explainer on what the agent actually does.
 - [Meta Says Its Muse AI Agent Can Do Things for You. I Put It to the Test](https://www.cnn.com/2026/09/23/tech/meta-muse-ai-agent) - CNN's hands-on with real errands.
 - [I Put Meta's Muse AI Agent to Work](https://www.barrons.com/articles/meta-muse-ai-review-29077e2f) - Barron's test by a non-power user: canceling subscriptions and finding a doctor, including what it got wrong.
 

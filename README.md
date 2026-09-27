@@ -74,6 +74,7 @@ Open-source projects built for Muse. Review the code and the permissions a tool 
 - [Muse Mac Connector](https://github.com/dkm90x/muse-mac-connector) - macOS app that lets Muse perform actions on your Mac that you approve.
 - [Muse Proxy](https://github.com/NeedsChloesure/muse-proxy) - Scoped API-key gateway that lets Muse reach self-hosted CalDAV and CardDAV servers without storing passwords.
 - [PIL](https://github.com/pjpoulose/PIL) - Muse skill that turns your saved Instagram posts into a private, searchable knowledge base.
+- [Agent Connector Launch Kit](https://github.com/camirian/agent-connector-launch-kit) - Starter kit for building OpenAPI-based connectors for Muse, with test tooling and notes from a real submission.
 
 Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 
@@ -96,6 +97,7 @@ Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 
 - [Meta Muse Explained](https://www.mindstudio.ai/blog/meta-muse-ai-agent) - Explainer on what the agent actually does.
 - [Meta Says Its Muse AI Agent Can Do Things for You. I Put It to the Test](https://www.cnn.com/2026/09/23/tech/meta-muse-ai-agent) - CNN's hands-on with real errands.
+- [I Put Meta's Muse AI Agent to Work](https://www.barrons.com/articles/meta-muse-ai-review-29077e2f) - Barron's test by a non-power user: canceling subscriptions and finding a doctor, including what it got wrong.
 
 ## News and Analysis
 
@@ -105,11 +107,16 @@ Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 - [Meta's Muse Hit No. 1 on the App Store](https://tech.yahoo.com/ai/article/metas-ai-agent-muse-is-chasing-chatgpts-app-store-rise--and-hit-no-1-with-fewer-downloads-152809095.html) - Yahoo Tech on Muse's app store rise.
 - [Personal AI Agents Face a Public Reckoning](https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html) - CNBC on the privacy and safety debate around Muse.
 - [Stratechery on Muse](https://stratechery.com/topic/digital-assistants/muse/) - Ben Thompson's ongoing strategic analysis.
+- [Meta's New AI Agent Is an Instant Hit](https://www.wsj.com/tech/ai/meta-ai-agent-muse-reactions-5bf236af) - WSJ on Muse's first two weeks: the Amazon block, trust surveys, and revenue projections.
+- [Spotify Is First Music Service to Connect to Meta Muse](https://musically.com/2026/09/24/spotify-is-first-music-service-to-connect-to-meta-muse-ai-agent/) - Music Ally on Spotify's Muse connector: playback, playlists, and podcast controls by conversation.
 
 ## Videos and Podcasts
 
 - [Mark Zuckerberg on Muse](https://sources.news/p/mark-zuckerberg-meta-muse-ai-podcast-interview) - Sources podcast interview about the vision behind Muse.
 - [Mark Zuckerberg Interview at Connect](https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-interview-connect-audio-glasses-muse-ai-killing-us-rcna599257) - NBC News on Muse, glasses, and Meta's AI plans.
+- [Meta Muse Review: Can It Actually Run Your Life?](https://www.youtube.com/watch?v=wJC_SQJ7msc) - Seven-day test of ten real errands, scored: five done right, two done wrong, two stalled.
+- [Muse Just Stole the AI Spotlight](https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/) - Equity episode on Muse outpacing ChatGPT's early numbers and what it means for startups building on agents.
+- [Muse Is Why Meta Has No Business Building the Agentic Web](https://www.youtube.com/watch?v=ybCF89NP4KE) - Critical walkthrough sorting Zuckerberg's Muse privacy and security claims by what exists today versus what is promised.
 
 ## Contributing
 
